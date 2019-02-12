@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="1.8">
+      <module name="dbservice.dbservice.main" target="1.8" />
+      <module name="dbservice.dbservice.test" target="1.8" />
+      <module name="resourceservice.dbservice.main" target="1.8" />
+      <module name="resourceservice.dbservice.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_STRING" value="-target 1.7" />
+  </component>
+</project>
